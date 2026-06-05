@@ -1,0 +1,3 @@
+Este es el primer archivo para la practica de uso de git.
+Día viernes 5 de junio
+Fin de semana
