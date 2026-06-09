@@ -1,4 +1,3 @@
-
 Chihuahua
 Juárez
 Parral
