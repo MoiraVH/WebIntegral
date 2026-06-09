@@ -1,4 +1,2 @@
-Chihuahua
-Juárez
-Parral
-Guadalajara
+Torreon
+Delicias
