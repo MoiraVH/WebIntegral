@@ -1,2 +1,3 @@
-Torreon
-Delicias
+Chihuahua
+Parral
+Juárrez
